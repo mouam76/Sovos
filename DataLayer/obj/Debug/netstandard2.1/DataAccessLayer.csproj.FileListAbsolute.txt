@@ -1,0 +1,9 @@
+C:\Users\Mike\source\repos\SovosAssessment\DataLayer\bin\Debug\netstandard2.1\DataAccessLayer.deps.json
+C:\Users\Mike\source\repos\SovosAssessment\DataLayer\bin\Debug\netstandard2.1\DataAccessLayer.dll
+C:\Users\Mike\source\repos\SovosAssessment\DataLayer\bin\Debug\netstandard2.1\DataAccessLayer.pdb
+C:\Users\Mike\source\repos\SovosAssessment\DataLayer\obj\Debug\netstandard2.1\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\SovosAssessment\DataLayer\obj\Debug\netstandard2.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\SovosAssessment\DataLayer\obj\Debug\netstandard2.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Mike\source\repos\SovosAssessment\DataLayer\obj\Debug\netstandard2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\SovosAssessment\DataLayer\obj\Debug\netstandard2.1\DataAccessLayer.dll
+C:\Users\Mike\source\repos\SovosAssessment\DataLayer\obj\Debug\netstandard2.1\DataAccessLayer.pdb
